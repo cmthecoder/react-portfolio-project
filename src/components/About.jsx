@@ -18,7 +18,7 @@ function About() {
           </div>
           <div>
             <p>
-              Apart from learning new technologies and coding, I like to spend my spare time reading novels, magazines, working out, and spending time with my fiance.
+              Apart from learning new technologies and coding, I like to spend my time reading novels, magazines, exercising, and hanging out with my fiancée
             </p>
           </div>
         </div>
