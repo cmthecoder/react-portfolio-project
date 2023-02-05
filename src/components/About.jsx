@@ -18,7 +18,7 @@ function About() {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis deserunt fugit aliquid pariatur illum, quaerat a sunt, vero ipsum facere ad error, obcaecati consequuntur voluptatum corporis inventore cupiditate recusandae reprehenderit.
+              Apart from learning new technologies and coding, I like to spend my spare time reading novels, magazines, working out, and spending time with my fiance.
             </p>
           </div>
         </div>
