@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaLinkedin, FaTwitter} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
-import Logo from '../assets/CM (1).png'
+import Logo from '../assets/cm.png'
 import {Link} from 'react-scroll'
 
 function NavBar() {
@@ -50,7 +50,7 @@ function NavBar() {
       </div>
 
       {/* Mobile menu */}
-      <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
+      <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#283655] flex flex-col justify-center items-center'}>
         <li className='py-6 text-4xl'>
             <Link onClick={handleClick} to="home" smooth={true} duration={500}>
               Home

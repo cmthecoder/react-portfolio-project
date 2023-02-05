@@ -9,7 +9,7 @@ function Work() {
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#1E1F26]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-green-600'>Work</p>
+          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#D0E1F9]'>Work</p>
           <p className='py-6'>Checkout some of my work</p>
         </div>
 
