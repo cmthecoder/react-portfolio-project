@@ -2,6 +2,7 @@ import React from 'react'
 import TTT from '../assets/ttt.jpg'
 import MyProps from '../assets/myprops.jpg'
 import ConnectFour from '../assets/connect-4.png'
+import Flyers from '../assets/flyers.png'
 
 
 function Work() {
@@ -30,6 +31,23 @@ function Work() {
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
                 </a>
                 <a href="https://github.com/cmthecoder/myProps-front-end.git">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div style={{backgroundImage: `url(${Flyers})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                The Flyers
+              </span>
+              <div className='pt-8 text-center'>
+                <a href="https://the-flyers.netlify.app/">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                </a>
+                <a href="https://github.com/cmthecoder/flyers-club-front-end">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
