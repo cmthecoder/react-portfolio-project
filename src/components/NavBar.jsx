@@ -13,7 +13,9 @@ function NavBar() {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1E1F26] text-gray-300'>
       <div>
-        <img src={Logo} alt="Logo" style={{ width: '65px'}}/>
+        <Link to="home">
+          <img src={Logo} alt="Logo" style={{ width: '65px'}}/>
+        </Link>
       </div>
         {/* Menu */}
         <ul className='hidden md:flex'>
