@@ -27,10 +27,10 @@ function Work() {
                 MyProps
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://mypropsmanagement.netlify.app/">
+                <a href="https://mypropsmanagement.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
                 </a>
-                <a href="https://github.com/cmthecoder/myProps-front-end.git">
+                <a href="https://github.com/cmthecoder/myProps-front-end.git" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -44,10 +44,10 @@ function Work() {
                 The Flyers
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://the-flyers.netlify.app/">
+                <a href="https://the-flyers.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
                 </a>
-                <a href="https://github.com/cmthecoder/flyers-club-front-end">
+                <a href="https://github.com/cmthecoder/flyers-club-front-end" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -61,10 +61,10 @@ function Work() {
                 Connect-Four
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://cmems-connect-four.netlify.app/">
+                <a href="https://cmems-connect-four.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
                 </a>
-                <a href="https://github.com/cmthecoder/Connect-Four.git">
+                <a href="https://github.com/cmthecoder/Connect-Four.git" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -78,10 +78,10 @@ function Work() {
                 Tic-Tac-Toe
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://chris-mems-ttt.netlify.app/">
+                <a href="https://chris-mems-ttt.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
                 </a>
-                <a href="https://github.com/cmthecoder/ttt-weekend.git">
+                <a href="https://github.com/cmthecoder/ttt-weekend.git" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
