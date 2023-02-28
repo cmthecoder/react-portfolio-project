@@ -1,8 +1,9 @@
 import React from 'react'
-import TTT from '../assets/ttt.jpg'
-import MyProps from '../assets/myprops.jpg'
-import ConnectFour from '../assets/connect-4.png'
+// import TTT from '../assets/ttt.jpg'
 import Flyers from '../assets/flyers.png'
+import MyProps from '../assets/myprops.jpg'
+import TheFit from '../assets/thefitlanding.png'
+import ConnectFour from '../assets/connect-4.png'
 
 
 function Work() {
@@ -54,6 +55,23 @@ function Work() {
             </div>
           </div>
           
+          <div style={{backgroundImage: `url(${TheFit})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                My Person Fitness
+              </span>
+              <div className='pt-8 text-center'>
+                <a href="https://fit-for-one.netlify.app/" target='_blank' rel='noreferrer'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                </a>
+                <a href="https://github.com/cmthecoder/my-fitness-app-front-end" target='_blank' rel='noreferrer'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
           <div style={{backgroundImage: `url(${ConnectFour})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -71,9 +89,10 @@ function Work() {
             </div>
           </div>
 
-          <div style={{backgroundImage: `url(${TTT})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+          {/* <div style={{backgroundImage: `url(${TTT})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            {/* <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Tic-Tac-Toe
               </span>
@@ -85,8 +104,9 @@ function Work() {
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
+
           
         </div>
       </div>
