@@ -18,8 +18,9 @@ function About() {
           </div>
           <div>
             <p className='sm:pt-1'>
-              Apart from learning new technologies and coding, I like to spend my time reading novels, magazines, exercising, and hanging out with my fiancée
-            </p>
+            As a software engineer, I am passionate about designing and developing innovative solutions to complex problems. I love the thrill of creating something new and seeing it come to life through code.</p><br />
+            <p>For me, landing a job in the software engineering field is not just about finding a paycheck - it's about finding a community of like-minded individuals who share my passion for technology and continuous learning.</p><br />
+            <p>I am excited to join a team that values my contributions and provides opportunities for me to grow and develop my skills. I want to work in an environment that fosters creativity and collaboration, where I can learn from my colleagues and challenge myself to become a better engineer.</p>
           </div>
         </div>
       </div>
