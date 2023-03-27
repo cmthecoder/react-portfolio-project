@@ -23,10 +23,11 @@ function Work() {
 
           <div style={{backgroundImage: `url(${MyProps})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 ml-2'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 MyProps
               </span>
+              <p>myProps is a website built for property managers to easily keep track of properties that they manage</p>
               <div className='pt-8 text-center'>
                 <a href="https://mypropsmanagement.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
@@ -40,10 +41,11 @@ function Work() {
 
           <div style={{backgroundImage: `url(${Flyers})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 ml-2'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 The Flyers
               </span>
+              <p>The Flyers is a community where people who share a passion for aviation can meet and share their fun adventures or discuss changes in the world of aviation</p>
               <div className='pt-8 text-center'>
                 <a href="https://the-flyers.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
@@ -57,10 +59,11 @@ function Work() {
           
           <div style={{backgroundImage: `url(${TheFit})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 ml-2'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 My Person Fitness
               </span>
+              <p>A fitness app made for those who like to keep track of their workouts without having to bring along pen and paper to the gym</p>
               <div className='pt-8 text-center'>
                 <a href="https://fit-for-one.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
@@ -74,10 +77,11 @@ function Work() {
 
           <div style={{backgroundImage: `url(${ConnectFour})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 ml-2'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Connect-Four
               </span>
+              <p>A two-player game in which tthe first player to connect four of their circular game pieces wins</p>
               <div className='pt-8 text-center'>
                 <a href="https://cmems-connect-four.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
