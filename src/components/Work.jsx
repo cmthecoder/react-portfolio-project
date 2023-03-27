@@ -30,10 +30,10 @@ function Work() {
               <p>myProps is a website built for property managers to easily keep track of properties that they manage</p>
               <div className='pt-8 text-center'>
                 <a href="https://mypropsmanagement.netlify.app/" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>App</button>
                 </a>
                 <a href="https://github.com/cmthecoder/myProps-front-end.git" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
                 </a>
               </div>
             </div>
@@ -48,10 +48,10 @@ function Work() {
               <p>The Flyers is a community where people who share a passion for aviation can meet and share their fun adventures or discuss changes in the world of aviation</p>
               <div className='pt-8 text-center'>
                 <a href="https://the-flyers.netlify.app/" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>App</button>
                 </a>
                 <a href="https://github.com/cmthecoder/flyers-club-front-end" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
                 </a>
               </div>
             </div>
@@ -66,10 +66,10 @@ function Work() {
               <p>A fitness app made for those who like to keep track of their workouts without having to bring along pen and paper to the gym</p>
               <div className='pt-8 text-center'>
                 <a href="https://fit-for-one.netlify.app/" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>App</button>
                 </a>
                 <a href="https://github.com/cmthecoder/my-fitness-app-front-end" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
                 </a>
               </div>
             </div>
@@ -84,10 +84,10 @@ function Work() {
               <p>A two-player game in which tthe first player to connect four of their circular game pieces wins</p>
               <div className='pt-8 text-center'>
                 <a href="https://cmems-connect-four.netlify.app/" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>App</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>App</button>
                 </a>
                 <a href="https://github.com/cmthecoder/Connect-Four.git" target='_blank' rel='noreferrer'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
                 </a>
               </div>
             </div>
