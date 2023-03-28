@@ -3,7 +3,8 @@ import React from 'react'
 import Flyers from '../assets/flyers.png'
 import MyProps from '../assets/myprops.jpg'
 import TheFit from '../assets/thefitlanding.png'
-import ConnectFour from '../assets/connect-4.png'
+// import ConnectFour from '../assets/connect-4.png'
+import YT from '../assets/yt.png'
 
 
 function Work() {
@@ -75,9 +76,28 @@ function Work() {
             </div>
           </div>
 
-          <div style={{backgroundImage: `url(${ConnectFour})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage: `url(${YT})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 ml-2'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                YT Duplicate
+              </span>
+              <p>YT Duplicate is a web application built using React that mimics the functionality and user interface of the YouTube</p>
+              <div className='pt-8 text-center'>
+                <a href="https://yt-duplicate.netlify.app/" target='_blank' rel='noreferrer'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>App</button>
+                </a>
+                <a href="https://github.com/cmthecoder/yt-clone-app.git" target='_blank' rel='noreferrer'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+          {/* <div style={{backgroundImage: `url(${ConnectFour})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
+            {/* Hover Effects */}
+            {/* <div className='opacity-0 group-hover:opacity-100 ml-2'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Connect-Four
               </span>
@@ -90,8 +110,8 @@ function Work() {
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-black hover:text-white'>Code</button>
                 </a>
               </div>
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
 
 
           {/* <div style={{backgroundImage: `url(${TTT})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
